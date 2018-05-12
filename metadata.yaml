@@ -13,6 +13,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20777#R.-Caldecott-s-First-Collection-of-Pictures-and-Songs
 gutenberg_bookshelf:
 - Children's Picture Books
 - Art
